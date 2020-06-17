@@ -1,2 +1,2 @@
 # Gif-Hub
-Dedicated to collecting GIF photos of high quality  
+Dedicated to collecting websites where GIF photos are available.
